@@ -92,10 +92,6 @@ Getting Started
 1. Installation
 Install Node.js (v22+).
 
-Download or clone the repository:
-
-git clone https://github.com/VinayKumarBM/playwright-sample-project.git
-OR Download ZIP.
 
 Install dependencies:
 
